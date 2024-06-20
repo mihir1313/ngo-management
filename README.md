@@ -3,10 +3,10 @@
 
 
 ## Front End
-Home:
+#### Home:
 ![FrontEnd](https://github.com/mihir1313/Digital-card/assets/121492298/7d397752-e938-4fc2-86b7-ed450c3b21db)
 
-Causes:
+#### Causes:
 ![FrontEnd-2](https://github.com/mihir1313/Digital-card/assets/121492298/3fc2d1af-a82e-4a2a-b238-f07e96cb89c1)
 
 ## Admin Login
@@ -15,7 +15,8 @@ Causes:
 
 ## Back End
 
-![BackEnd](https://github.com/mihir1313/Digital-card/assets/121492298/2a51507e-67d8-47a4-8559-01b41a85ae77)
+![Backend](https://github.com/mihir1313/Digital-card/assets/121492298/89c86482-7b41-4169-8f7b-e9315b03bcd8)
+
 
 ## Installation
 
